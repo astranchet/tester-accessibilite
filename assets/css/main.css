@@ -1557,8 +1557,8 @@ input[type=reset].primary,
 input[type=button].primary,
 button.primary,
 .button.primary {
-  background-color: #8cc9f0;
-  color: #ffffff !important;
+  background-color: #bce9e3;
+  color: #257172 !important;
   box-shadow: none;
 }
 input[type=submit].primary:hover,
@@ -1566,14 +1566,14 @@ input[type=reset].primary:hover,
 input[type=button].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #9acff2;
+  background-color: #c8ede8;
 }
 input[type=submit].primary:active,
 input[type=reset].primary:active,
 input[type=button].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #7ec3ee;
+  background-color: #b0e5de;
 }
 input[type=submit].primary.icon:before,
 input[type=reset].primary.icon:before,
@@ -1745,8 +1745,8 @@ input[type=password]:focus,
 input[type=email]:focus,
 select:focus,
 textarea:focus {
-  border-color: #8cc9f0;
-  box-shadow: 0 0 0 1px #8cc9f0;
+  border-color: #bce9e3;
+  box-shadow: 0 0 0 1px #bce9e3;
 }
 
 select {
@@ -1774,8 +1774,8 @@ input[type=radio]:checked + label:before {
 }
 input[type=checkbox]:focus + label:before,
 input[type=radio]:focus + label:before {
-  border-color: #8cc9f0;
-  box-shadow: 0 0 0 1px #8cc9f0;
+  border-color: #bce9e3;
+  box-shadow: 0 0 0 1px #bce9e3;
 }
 
 ::-webkit-input-placeholder {
@@ -2775,8 +2775,8 @@ body.is-preload #header.alt .logo {
 #main input[type=button].primary,
 #main button.primary,
 #main .button.primary {
-  background-color: #8cc9f0;
-  color: #ffffff !important;
+  background-color: #bce9e3;
+  color: #257172 !important;
   box-shadow: none;
 }
 #main input[type=submit].primary:hover,
@@ -2784,14 +2784,14 @@ body.is-preload #header.alt .logo {
 #main input[type=button].primary:hover,
 #main button.primary:hover,
 #main .button.primary:hover {
-  background-color: #9acff2;
+  background-color: #c8ede8;
 }
 #main input[type=submit].primary:active,
 #main input[type=reset].primary:active,
 #main input[type=button].primary:active,
 #main button.primary:active,
 #main .button.primary:active {
-  background-color: #7ec3ee;
+  background-color: #b0e5de;
 }
 #main input[type=submit].primary.icon:before,
 #main input[type=reset].primary.icon:before,
@@ -2816,8 +2816,8 @@ body.is-preload #header.alt .logo {
 #main input[type=email]:focus,
 #main select:focus,
 #main textarea:focus {
-  border-color: #8cc9f0;
-  box-shadow: 0 0 0 1px #8cc9f0;
+  border-color: #bce9e3;
+  box-shadow: 0 0 0 1px #bce9e3;
 }
 #main select {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='%23dddddd' /%3E%3C/svg%3E");
@@ -2843,8 +2843,8 @@ body.is-preload #header.alt .logo {
 }
 #main input[type=checkbox]:focus + label:before,
 #main input[type=radio]:focus + label:before {
-  border-color: #8cc9f0;
-  box-shadow: 0 0 0 1px #8cc9f0;
+  border-color: #bce9e3;
+  box-shadow: 0 0 0 1px #bce9e3;
 }
 #main ::-webkit-input-placeholder {
   color: rgba(99, 99, 99, 0.25) !important;
